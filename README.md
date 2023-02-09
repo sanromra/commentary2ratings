@@ -1,5 +1,7 @@
 # commentary2ratings
-Using football commentaries to predict player ratings in a match.
+Using football commentaries to predict player ratings in a match. 
+
+**All results are compiled in https://github.com/sanromra/commentary2ratings/blob/main/CSCI544___Final_Report.pdf**
 
 ## Requirements
 
